@@ -14,8 +14,7 @@ For any help and refrence contact : adityashinde.0405@gmail.com
 # Working Model
 
 <img src=https://github.com/adityashinde521/IOT-SMART_LOCK/blob/master/PHOTOS/20191118_152803.jpg width="400">
-<img src=https://github.com/adityashinde521/IOT-SMART_LOCK/blob/master/PHOTOS/20191118_152814.jpg width="400">
-<img src=https://github.com/adityashinde521/IOT-SMART_LOCK/blob/master/PHOTOS/20191118_152817.jpg width="400">
+
 <img src=https://github.com/adityashinde521/IOT-SMART_LOCK/blob/master/PHOTOS/20191118_152821.jpg width="400">
 
 ---
